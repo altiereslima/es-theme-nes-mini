@@ -45,10 +45,10 @@
 		</rating>
 		
 		<textlist name="gamelist">
-			<selectorColor>0093ff</selectorColor>
+			<selectorColor>2f2eba</selectorColor>
 			<selectedColor>ffffff</selectedColor>
 			<primaryColor>757575</primaryColor>
-			<secondaryColor>0093ff</secondaryColor>
+			<secondaryColor>353499</secondaryColor>
 		</textlist>
 		
 		<image name="background" extra="true">
@@ -60,15 +60,15 @@
 	
 		
 		<image name="player_box" extra="true">
-			<color>0093ff</color>		
+			<color>2f2eba</color>		
 		</image>
 
 		<text name="publisher_label, developer_label, genre_label, rating_label, played_label" extra="true">
-			<color>0093ff</color>
+			<color>2f2eba</color>
 		</text>
 
 		<datetime name="md_releasedate">
-			<color>0093ff</color>
+			<color>2f2eba</color>
 		</datetime>	
 
 		
