@@ -23,7 +23,7 @@
 			</image>
 			
 			<image name="carousel_bar" extra="true">
-				<color>4da6d6</color>
+				<color>57B6E0</color>
 			</image>
 		
 		</view>
@@ -45,10 +45,10 @@
 		</rating>
 		
 		<textlist name="gamelist">
-			<selectorColor>095890</selectorColor>
-			<selectedColor>66e3fd</selectedColor>
+			<selectorColor>33ccff</selectorColor>
+			<selectedColor>ffffff</selectedColor>
 			<primaryColor>757575</primaryColor>
-			<secondaryColor>66e3fd</secondaryColor>
+			<secondaryColor>00a3d9</secondaryColor>
 		</textlist>
 		
 		<image name="background" extra="true">
@@ -60,15 +60,15 @@
 		
 		
 		<image name="player_box" extra="true">
-			<color>358dc0</color>		
+			<color>57B6E0</color>		
 		</image>
 
 		<text name="publisher_label, developer_label, genre_label, rating_label, played_label" extra="true">
-			<color>358dc0</color>
+			<color>57B6E0</color>
 		</text>
 
 		<datetime name="md_releasedate">
-			<color>358dc0</color>
+			<color>57B6E0</color>
 		</datetime>	
 
 	
