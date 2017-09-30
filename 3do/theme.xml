@@ -60,7 +60,7 @@
 	
 		
 		<image name="player_box" extra="true">
-			<color>ffffff</color>		
+			<color>f2cc00</color>		
 		</image>
 
 		<text name="publisher_label, developer_label, genre_label, rating_label, played_label" extra="true">
