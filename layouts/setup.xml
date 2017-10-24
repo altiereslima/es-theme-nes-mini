@@ -176,29 +176,29 @@ author:			ruckage
 		
 		<text name="publisher_label" extra="true">
 			<alignment>left</alignment>
-			<text>  Published</text>
+			<text>  LANÇAMENTO:</text>
 		</text>
 		
 		<text name="developer_label" extra="true">
 			<alignment>center</alignment>
-			<text>Developed by</text>
+			<text>DESENVOLVIDO POR</text>
 		</text>		
 
 		<text name="genre_label" extra="true">
 			<alignment>center</alignment>
-			<text>Genre</text>
+			<text>GÊNERO</text>
 		</text>	
 
 		<text name="rating_label" extra="true">
 			<alignment>center</alignment>
 			<size>0.09375 0.0333333333333333</size>
-			<text>Rating</text>
+			<text>AVALIAÇÃO</text>
 		</text>	
 
 		<text name="played_label" extra="true">
 			<alignment>center</alignment>
 			<size>0.09375 0.0333333333333333</size>
-			<text>Played</text>
+			<text>V. JOGADO</text>
 		</text>			
 		 
 	</view>
