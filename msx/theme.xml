@@ -23,7 +23,7 @@
 			</image>
 			
 			<image name="carousel_bar" extra="true">
-				<color>757575</color>
+				<color>c8c8c8</color>
 			</image>
 		
 		</view>
@@ -45,10 +45,10 @@
 		</rating>
 		
 		<textlist name="gamelist">
-			<selectorColor>ff0000</selectorColor>
+			<selectorColor>00ace5</selectorColor>
 			<selectedColor>ffffff</selectedColor>
 			<primaryColor>757575</primaryColor>
-			<secondaryColor>ff0000</secondaryColor>
+			<secondaryColor>00ace5</secondaryColor>
 		</textlist>
 		
 		<image name="background" extra="true">
@@ -60,15 +60,15 @@
 	
 		
 		<image name="player_box" extra="true">
-			<color>ff0000</color>		
+			<color>00ace5</color>		
 		</image>
 
 		<text name="publisher_label, developer_label, genre_label, rating_label, played_label" extra="true">
-			<color>ff0000</color>
+			<color>00ace5</color>
 		</text>
 
 		<datetime name="md_releasedate">
-			<color>ff0000</color>
+			<color>00ace5</color>
 		</datetime>	
 
 		

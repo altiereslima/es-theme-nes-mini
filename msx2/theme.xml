@@ -23,7 +23,7 @@
 			</image>
 			
 			<image name="carousel_bar" extra="true">
-				<color>757575</color>
+				<color>ff0000</color>
 			</image>
 		
 		</view>
